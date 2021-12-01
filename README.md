@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m iak3ec\赵优秀
+- 😄 底层安服仔
 
 <!--
 **nu0l/nu0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
