@@ -1,7 +1,8 @@
 ### Hi there 👋
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nu0l)
 - 🔭 I’m iak3ec\赵优秀
 - 😄 底层安服仔
-- 💬 老年CTFer\AWD头被锤爆
+- 💬 老年CTFer
 
 
 <!--
