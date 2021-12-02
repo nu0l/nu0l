@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.nu0l&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nu0l&left_color=green&right_color=red)
 - 🔭 I’m iak3ec\赵优秀
 - 😄 底层安服仔
 - 💬 老年CTFer
