@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nu0l&show_icons=true&theme=dracula)
 
 
-![my](https://github.com/nu0l/nu0l/blob/main/1.png)
+<img width="99" alt="1" src="https://user-images.githubusercontent.com/54735907/181659708-dea33737-b8fa-431f-a9a0-a96e8391b8fb.png">
+
