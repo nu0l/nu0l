@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img width="99" alt="1" src="https://user-images.githubusercontent.com/54735907/181659708-dea33737-b8fa-431f-a9a0-a96e8391b8fb.png">
 
 
-![github contribution grid snake animation](https://github.com/SummerSec/SummerSec/tree/master/dist/github-snake.svg)
+![github contribution grid snake animation](.github-snake.svg#gh-light-mode-only)
